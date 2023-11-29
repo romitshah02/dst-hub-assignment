@@ -1,6 +1,6 @@
 # dst
 
-A new Flutter project.
+A Simple Work Tracking App.
 
 ## Getting Started
 
